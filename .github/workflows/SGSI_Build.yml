@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.3.1.0/cn/20230111010618/30bdd7dd/update.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
